@@ -1,0 +1,505 @@
+order_hour_of_day,department,num_orders_hour,tot_orders_dept
+0,alcohol,33,5598
+1,alcohol,32,5598
+2,alcohol,5,5598
+3,alcohol,3,5598
+4,alcohol,2,5598
+5,alcohol,12,5598
+6,alcohol,34,5598
+7,alcohol,92,5598
+8,alcohol,161,5598
+9,alcohol,343,5598
+10,alcohol,409,5598
+11,alcohol,456,5598
+12,alcohol,494,5598
+13,alcohol,520,5598
+14,alcohol,518,5598
+15,alcohol,620,5598
+16,alcohol,528,5598
+17,alcohol,443,5598
+18,alcohol,352,5598
+19,alcohol,220,5598
+20,alcohol,149,5598
+21,alcohol,85,5598
+22,alcohol,46,5598
+23,alcohol,41,5598
+0,babies,70,14941
+1,babies,70,14941
+2,babies,49,14941
+3,babies,25,14941
+4,babies,22,14941
+5,babies,38,14941
+6,babies,202,14941
+7,babies,530,14941
+8,babies,948,14941
+9,babies,1257,14941
+10,babies,1153,14941
+11,babies,1086,14941
+12,babies,958,14941
+13,babies,1130,14941
+14,babies,1191,14941
+15,babies,1184,14941
+16,babies,1145,14941
+17,babies,858,14941
+18,babies,710,14941
+19,babies,594,14941
+20,babies,642,14941
+21,babies,489,14941
+22,babies,395,14941
+23,babies,195,14941
+0,bakery,307,48394
+1,bakery,175,48394
+2,bakery,103,48394
+3,bakery,75,48394
+4,bakery,86,48394
+5,bakery,127,48394
+6,bakery,428,48394
+7,bakery,1285,48394
+8,bakery,2489,48394
+9,bakery,3356,48394
+10,bakery,3822,48394
+11,bakery,3863,48394
+12,bakery,3907,48394
+13,bakery,4023,48394
+14,bakery,4260,48394
+15,bakery,4056,48394
+16,bakery,3859,48394
+17,bakery,3433,48394
+18,bakery,2748,48394
+19,bakery,2023,48394
+20,bakery,1454,48394
+21,bakery,1111,48394
+22,bakery,904,48394
+23,bakery,500,48394
+0,beverages,694,114046
+1,beverages,473,114046
+2,beverages,285,114046
+3,beverages,247,114046
+4,beverages,231,114046
+5,beverages,398,114046
+6,beverages,1031,114046
+7,beverages,2815,114046
+8,beverages,5400,114046
+9,beverages,8185,114046
+10,beverages,9790,114046
+11,beverages,9710,114046
+12,beverages,9179,114046
+13,beverages,9311,114046
+14,beverages,9710,114046
+15,beverages,9415,114046
+16,beverages,8675,114046
+17,beverages,8075,114046
+18,beverages,6439,114046
+19,beverages,4881,114046
+20,beverages,3272,114046
+21,beverages,2551,114046
+22,beverages,1991,114046
+23,beverages,1288,114046
+0,breakfast,175,29500
+1,breakfast,124,29500
+2,breakfast,60,29500
+3,breakfast,54,29500
+4,breakfast,62,29500
+5,breakfast,88,29500
+6,breakfast,264,29500
+7,breakfast,860,29500
+8,breakfast,1488,29500
+9,breakfast,2142,29500
+10,breakfast,2456,29500
+11,breakfast,2429,29500
+12,breakfast,2241,29500
+13,breakfast,2299,29500
+14,breakfast,2533,29500
+15,breakfast,2372,29500
+16,breakfast,2265,29500
+17,breakfast,2087,29500
+18,breakfast,1603,29500
+19,breakfast,1316,29500
+20,breakfast,891,29500
+21,breakfast,742,29500
+22,breakfast,605,29500
+23,breakfast,344,29500
+0,bulk,12,1359
+1,bulk,13,1359
+2,bulk,3,1359
+3,bulk,1,1359
+4,bulk,0,1359
+5,bulk,5,1359
+6,bulk,4,1359
+7,bulk,27,1359
+8,bulk,76,1359
+9,bulk,88,1359
+10,bulk,111,1359
+11,bulk,123,1359
+12,bulk,96,1359
+13,bulk,107,1359
+14,bulk,133,1359
+15,bulk,103,1359
+16,bulk,91,1359
+17,bulk,88,1359
+18,bulk,78,1359
+19,bulk,68,1359
+20,bulk,42,1359
+21,bulk,34,1359
+22,bulk,36,1359
+23,bulk,20,1359
+0,canned goods,324,46799
+1,canned goods,150,46799
+2,canned goods,99,46799
+3,canned goods,100,46799
+4,canned goods,96,46799
+5,canned goods,128,46799
+6,canned goods,389,46799
+7,canned goods,1171,46799
+8,canned goods,2120,46799
+9,canned goods,3175,46799
+10,canned goods,3591,46799
+11,canned goods,4094,46799
+12,canned goods,3987,46799
+13,canned goods,4094,46799
+14,canned goods,3981,46799
+15,canned goods,3965,46799
+16,canned goods,3776,46799
+17,canned goods,3154,46799
+18,canned goods,2508,46799
+19,canned goods,1892,46799
+20,canned goods,1342,46799
+21,canned goods,1146,46799
+22,canned goods,957,46799
+23,canned goods,560,46799
+0,dairy eggs,1331,217051
+1,dairy eggs,827,217051
+2,dairy eggs,456,217051
+3,dairy eggs,391,217051
+4,dairy eggs,383,217051
+5,dairy eggs,617,217051
+6,dairy eggs,2012,217051
+7,dairy eggs,6067,217051
+8,dairy eggs,11239,217051
+9,dairy eggs,15146,217051
+10,dairy eggs,17375,217051
+11,dairy eggs,17410,217051
+12,dairy eggs,17008,217051
+13,dairy eggs,17740,217051
+14,dairy eggs,18599,217051
+15,dairy eggs,17946,217051
+16,dairy eggs,17292,217051
+17,dairy eggs,14976,217051
+18,dairy eggs,12075,217051
+19,dairy eggs,9082,217051
+20,dairy eggs,6482,217051
+21,dairy eggs,5714,217051
+22,dairy eggs,4349,217051
+23,dairy eggs,2534,217051
+0,deli,290,44291
+1,deli,197,44291
+2,deli,104,44291
+3,deli,80,44291
+4,deli,62,44291
+5,deli,109,44291
+6,deli,399,44291
+7,deli,1131,44291
+8,deli,2030,44291
+9,deli,2769,44291
+10,deli,3513,44291
+11,deli,3650,44291
+12,deli,3691,44291
+13,deli,3779,44291
+14,deli,3756,44291
+15,deli,3666,44291
+16,deli,3757,44291
+17,deli,3211,44291
+18,deli,2570,44291
+19,deli,1862,44291
+20,deli,1249,44291
+21,deli,1068,44291
+22,deli,820,44291
+23,deli,528,44291
+0,dry goods pasta,251,38713
+1,dry goods pasta,157,38713
+2,dry goods pasta,87,38713
+3,dry goods pasta,60,38713
+4,dry goods pasta,74,38713
+5,dry goods pasta,100,38713
+6,dry goods pasta,315,38713
+7,dry goods pasta,870,38713
+8,dry goods pasta,1778,38713
+9,dry goods pasta,2392,38713
+10,dry goods pasta,2946,38713
+11,dry goods pasta,3238,38713
+12,dry goods pasta,3130,38713
+13,dry goods pasta,3343,38713
+14,dry goods pasta,3381,38713
+15,dry goods pasta,3330,38713
+16,dry goods pasta,3264,38713
+17,dry goods pasta,2885,38713
+18,dry goods pasta,2219,38713
+19,dry goods pasta,1593,38713
+20,dry goods pasta,1160,38713
+21,dry goods pasta,968,38713
+22,dry goods pasta,696,38713
+23,dry goods pasta,476,38713
+0,frozen,692,100426
+1,frozen,433,100426
+2,frozen,265,100426
+3,frozen,190,100426
+4,frozen,193,100426
+5,frozen,274,100426
+6,frozen,860,100426
+7,frozen,2403,100426
+8,frozen,4308,100426
+9,frozen,5955,100426
+10,frozen,7192,100426
+11,frozen,8089,100426
+12,frozen,7795,100426
+13,frozen,8170,100426
+14,frozen,8718,100426
+15,frozen,8432,100426
+16,frozen,8528,100426
+17,frozen,7904,100426
+18,frozen,6303,100426
+19,frozen,4831,100426
+20,frozen,3274,100426
+21,frozen,2461,100426
+22,frozen,1889,100426
+23,frozen,1267,100426
+0,household,239,35986
+1,household,134,35986
+2,household,91,35986
+3,household,59,35986
+4,household,113,35986
+5,household,101,35986
+6,household,316,35986
+7,household,973,35986
+8,household,1806,35986
+9,household,2680,35986
+10,household,3157,35986
+11,household,3024,35986
+12,household,2952,35986
+13,household,2877,35986
+14,household,2842,35986
+15,household,2866,35986
+16,household,2608,35986
+17,household,2485,35986
+18,household,2123,35986
+19,household,1553,35986
+20,household,1082,35986
+21,household,882,35986
+22,household,614,35986
+23,household,409,35986
+0,international,76,11902
+1,international,50,11902
+2,international,25,11902
+3,international,32,11902
+4,international,27,11902
+5,international,32,11902
+6,international,73,11902
+7,international,245,11902
+8,international,515,11902
+9,international,746,11902
+10,international,915,11902
+11,international,1012,11902
+12,international,951,11902
+13,international,1086,11902
+14,international,1017,11902
+15,international,1039,11902
+16,international,1015,11902
+17,international,885,11902
+18,international,654,11902
+19,international,508,11902
+20,international,302,11902
+21,international,310,11902
+22,international,254,11902
+23,international,133,11902
+0,meat seafood,188,30307
+1,meat seafood,120,30307
+2,meat seafood,77,30307
+3,meat seafood,40,30307
+4,meat seafood,50,30307
+5,meat seafood,93,30307
+6,meat seafood,246,30307
+7,meat seafood,796,30307
+8,meat seafood,1446,30307
+9,meat seafood,1885,30307
+10,meat seafood,2360,30307
+11,meat seafood,2535,30307
+12,meat seafood,2517,30307
+13,meat seafood,2534,30307
+14,meat seafood,2670,30307
+15,meat seafood,2579,30307
+16,meat seafood,2522,30307
+17,meat seafood,2149,30307
+18,meat seafood,1729,30307
+19,meat seafood,1242,30307
+20,meat seafood,906,30307
+21,meat seafood,688,30307
+22,meat seafood,549,30307
+23,meat seafood,386,30307
+0,missing,67,8251
+1,missing,40,8251
+2,missing,13,8251
+3,missing,15,8251
+4,missing,13,8251
+5,missing,25,8251
+6,missing,70,8251
+7,missing,205,8251
+8,missing,367,8251
+9,missing,540,8251
+10,missing,663,8251
+11,missing,665,8251
+12,missing,679,8251
+13,missing,659,8251
+14,missing,697,8251
+15,missing,701,8251
+16,missing,651,8251
+17,missing,562,8251
+18,missing,508,8251
+19,missing,348,8251
+20,missing,234,8251
+21,missing,202,8251
+22,missing,187,8251
+23,missing,140,8251
+0,other,14,1795
+1,other,10,1795
+2,other,6,1795
+3,other,2,1795
+4,other,3,1795
+5,other,7,1795
+6,other,14,1795
+7,other,39,1795
+8,other,78,1795
+9,other,98,1795
+10,other,135,1795
+11,other,136,1795
+12,other,140,1795
+13,other,128,1795
+14,other,188,1795
+15,other,158,1795
+16,other,142,1795
+17,other,148,1795
+18,other,105,1795
+19,other,75,1795
+20,other,53,1795
+21,other,52,1795
+22,other,32,1795
+23,other,32,1795
+0,pantry,565,81242
+1,pantry,350,81242
+2,pantry,201,81242
+3,pantry,136,81242
+4,pantry,140,81242
+5,pantry,236,81242
+6,pantry,611,81242
+7,pantry,1899,81242
+8,pantry,3760,81242
+9,pantry,5218,81242
+10,pantry,6547,81242
+11,pantry,6880,81242
+12,pantry,6939,81242
+13,pantry,6895,81242
+14,pantry,7127,81242
+15,pantry,6939,81242
+16,pantry,6360,81242
+17,pantry,5640,81242
+18,pantry,4454,81242
+19,pantry,3351,81242
+20,pantry,2285,81242
+21,pantry,2010,81242
+22,pantry,1597,81242
+23,pantry,1102,81242
+0,personal care,157,21570
+1,personal care,101,21570
+2,personal care,60,21570
+3,personal care,37,21570
+4,personal care,38,21570
+5,personal care,95,21570
+6,personal care,205,21570
+7,personal care,607,21570
+8,personal care,1027,21570
+9,personal care,1472,21570
+10,personal care,1644,21570
+11,personal care,1764,21570
+12,personal care,1643,21570
+13,personal care,1696,21570
+14,personal care,1801,21570
+15,personal care,1738,21570
+16,personal care,1660,21570
+17,personal care,1612,21570
+18,personal care,1287,21570
+19,personal care,1048,21570
+20,personal care,679,21570
+21,personal care,524,21570
+22,personal care,424,21570
+23,personal care,251,21570
+0,pets,57,4497
+1,pets,18,4497
+2,pets,8,4497
+3,pets,6,4497
+4,pets,20,4497
+5,pets,16,4497
+6,pets,40,4497
+7,pets,103,4497
+8,pets,200,4497
+9,pets,248,4497
+10,pets,358,4497
+11,pets,378,4497
+12,pets,342,4497
+13,pets,369,4497
+14,pets,375,4497
+15,pets,356,4497
+16,pets,353,4497
+17,pets,344,4497
+18,pets,350,4497
+19,pets,207,4497
+20,pets,146,4497
+21,pets,112,4497
+22,pets,60,4497
+23,pets,31,4497
+0,produce,2782,409087
+1,produce,1697,409087
+2,produce,985,409087
+3,produce,682,409087
+4,produce,622,409087
+5,produce,1057,409087
+6,produce,3413,409087
+7,produce,11262,409087
+8,produce,20436,409087
+9,produce,27891,409087
+10,produce,32430,409087
+11,produce,33335,409087
+12,produce,33503,409087
+13,produce,34361,409087
+14,produce,35391,409087
+15,produce,34824,409087
+16,produce,32200,409087
+17,produce,27582,409087
+18,produce,21247,409087
+19,produce,16522,409087
+20,produce,11879,409087
+21,produce,10882,409087
+22,produce,8698,409087
+23,produce,5406,409087
+0,snacks,759,118862
+1,snacks,455,118862
+2,snacks,244,118862
+3,snacks,203,118862
+4,snacks,194,118862
+5,snacks,289,118862
+6,snacks,921,118862
+7,snacks,2922,118862
+8,snacks,5714,118862
+9,snacks,8270,118862
+10,snacks,9912,118862
+11,snacks,10242,118862
+12,snacks,9600,118862
+13,snacks,9641,118862
+14,snacks,10482,118862
+15,snacks,9909,118862
+16,snacks,9546,118862
+17,snacks,8423,118862
+18,snacks,6460,118862
+19,snacks,4959,118862
+20,snacks,3397,118862
+21,snacks,2782,118862
+22,snacks,2216,118862
+23,snacks,1322,118862
