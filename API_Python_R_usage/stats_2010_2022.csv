@@ -1,0 +1,14 @@
+timestamp,site,pandas,R,total_R_pandas
+2010-12-31,stats.stackexchange,0.0,257.0,257.0
+2011-12-31,stats.stackexchange,0.0,997.0,997.0
+2012-12-31,stats.stackexchange,1.0,1471.0,1472.0
+2013-12-31,stats.stackexchange,1.0,1907.0,1908.0
+2014-12-31,stats.stackexchange,0.0,2552.0,2552.0
+2015-12-31,stats.stackexchange,11.0,2998.0,3009.0
+2016-12-31,stats.stackexchange,14.0,2863.0,2877.0
+2017-12-31,stats.stackexchange,15.0,2565.0,2580.0
+2018-12-31,stats.stackexchange,23.0,2519.0,2542.0
+2019-12-31,stats.stackexchange,28.0,2305.0,2333.0
+2020-12-31,stats.stackexchange,24.0,2861.0,2885.0
+2021-12-31,stats.stackexchange,20.0,2140.0,2160.0
+2022-12-31,stats.stackexchange,22.0,2429.0,2451.0
